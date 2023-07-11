@@ -12,7 +12,7 @@
     margin-top: 1px;
     padding: 21px;
     gap: 77px;
-    margin-left: 18px;
+    margin-left: 3px;
 }
 
 .img{
@@ -108,7 +108,8 @@
 
 /* deal sectoin style */
 /* deal sectoin style */
-/* deal sectoin style */
+
+
 .deal-container{
     display: flex;
     align-items: center;
@@ -144,6 +145,7 @@
 }
 
 
+/* instragram style */
 /* instragram style */
 .instagram-container{
     display: flex;
@@ -200,6 +202,7 @@
     
 }
 
+/* fotter sectoin style */
 /* fotter sectoin style */
 .footer-container{
    padding: 2%;
